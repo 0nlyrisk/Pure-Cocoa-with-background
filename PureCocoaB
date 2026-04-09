@@ -8,7 +8,6 @@
       "id": "1113130615630471290"
     }
   ],
-  "background": "https://files.catbox.moe/iouryb.png",
   "semanticColors": {
     "ANDROID_RIPPLE": ["#6b4c2e"],
     "CHAT_BACKGROUND": ["#1a120b"],
@@ -253,6 +252,10 @@
       "StatusOffline": "#4b3a28",
       "StatusOnline": "#8b6f47"
     }
-  },
-  "spec": 2
-}
+},
+    "background": {
+        "blur": 0,
+        "url": https://files.catbox.moe/iouryb.png",
+        "alpha": 0.5
+    },
+    "spec": 2
