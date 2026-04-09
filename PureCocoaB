@@ -1,4 +1,1 @@
-    "background": {
-      "url": "https://files.catbox.moe/iouryb.png",
-      "alt": "Description of the image"
-    }
+{ "someKey": "someValue", ... , "background": { "url": "https://files.catbox.moe/iouryb.png", ... }}
